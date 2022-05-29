@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LAFM",
+  "name": "LAFM",
+  "description": "LukeHjo's Auction Flipping Mod",
+  "version": "(1.0)"
+  "mcversion": "(1.8.9)"
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LukeHjo"],
+  "credits": "LukeHjo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
