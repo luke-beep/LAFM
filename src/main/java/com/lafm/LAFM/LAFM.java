@@ -23,8 +23,7 @@ public class LAFM
     @SubscribeEvent
     public void onChat(ClientChatReceivedEvent event) {
         String message = event.message.getFormattedText();
-            if(message.contains("/lafm")) {
-                     System.out.println("Hello!");
+            //do something
             }
     }
 }
